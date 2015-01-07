@@ -116,19 +116,20 @@ img.grayscale {
 }
 
 .header .lead {
-  color:#d46054;
+  /*color:#d46054;*/
+  color: #fdcc17;
   font-size:25px;
 }
 
 .header {
   /*height: 100%;*/
-  background: #f68076 repeat center center fixed;
+  background: #a80000 repeat center center fixed;
 }
 
 /* use alt in navbar and header for different color */
 
 .alt {
-  background-color: #a80000;
+  background-color: #810024;
 }
 
 .alt .lead {
