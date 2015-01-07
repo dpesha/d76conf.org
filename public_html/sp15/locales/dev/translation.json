@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "d76confsp15"
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "program": "Program",
+    "access": "Access",
+    "registration": "Registration"
+  }
+}
