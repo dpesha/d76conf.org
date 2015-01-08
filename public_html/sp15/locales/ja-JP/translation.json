@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "d76confsp15"
+  },
+  "nav": {
+    "home": "ホーム",
+    "features": "特徴",
+    "program": "プログラム",
+    "access": "アクセス",
+    "registration": "登録"
+  },
+  "event": {
+  "host": "District 76",
+  "name": "2015年春季大会",
+  "detail": "5月15日～17日、代々木オリンピックセンター、東京",
+  "vision": "カラを破り めざせ最高",
+  "register": "ご登録"
+}
+}
