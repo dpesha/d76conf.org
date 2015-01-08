@@ -8,5 +8,12 @@
     "program": "Program",
     "access": "Access",
     "registration": "Registration"
+  },
+  "event": {
+    "host": "Toastmasters International District 76",
+    "name": "Spring Conference 2015",
+    "detail": "May 15,16,17@Yoyogi Olympic Center,Tokyo",
+    "vision": "Breakthrough to Excellence",
+    "register": "Register"
   }
 }
