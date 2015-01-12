@@ -99,7 +99,6 @@ img.grayscale {
   font-size:65px;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
   color:#431a6d;
-  color:#fff;
   margin-left:-5px;
   margin-bottom:5px;
   text-transform:uppercase;
@@ -109,7 +108,6 @@ img.grayscale {
   font-size:30px;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
   color:#431a6d;
-  color:#fff;
   margin-left:-5px;
   margin-bottom:5px;
   text-transform:uppercase;
@@ -128,11 +126,11 @@ img.grayscale {
 /* use alt in navbar and header for different color */
 
 .alt {
-  background-color: #a80000;
+  background-color: #e0d838;
 }
 
 .alt .lead {
-  color: #fdcc17;
+  color: #a80000;
 }
 
 .alt.affix {

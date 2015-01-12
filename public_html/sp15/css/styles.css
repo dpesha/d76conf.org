@@ -99,7 +99,6 @@ img.grayscale {
   font-size:65px;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
   color:#431a6d;
-  color:#fff;
   margin-left:-5px;
   margin-bottom:5px;
   text-transform:uppercase;
@@ -109,21 +108,19 @@ img.grayscale {
   font-size:30px;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
   color:#431a6d;
-  color:#fff;
   margin-left:-5px;
   margin-bottom:5px;
   text-transform:uppercase;
 }
 
 .header .lead {
-  /*color:#d46054;*/
-  color: #fdcc17;
+  color:#a80000;
   font-size:25px;
 }
 
 .header {
   /*height: 100%;*/
-  background: #a80000 repeat center center fixed;
+  background: #e0d838 repeat center center fixed;
 }
 
 /* use alt in navbar and header for different color */
