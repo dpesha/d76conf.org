@@ -98,8 +98,7 @@ img.grayscale {
 .header h1 {
   font-size:65px;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
-  color:#431a6d;
-  color:#fff;
+  color:#ffffff;
   margin-left:-5px;
   margin-bottom:5px;
   text-transform:uppercase;
@@ -108,16 +107,14 @@ img.grayscale {
 .header h2 {
   font-size:30px;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
-  color:#431a6d;
-  color:#fff;
+  color:#ffffff;
   margin-left:-5px;
   margin-bottom:5px;
   text-transform:uppercase;
 }
 
 .header .lead {
-  /*color:#d46054;*/
-  color: #fdcc17;
+  color:#fdcc17;
   font-size:25px;
 }
 

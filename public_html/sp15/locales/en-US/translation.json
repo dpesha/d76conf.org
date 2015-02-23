@@ -15,5 +15,18 @@
     "detail": "May 15,16,17@Yoyogi Olympic Center,Tokyo",
     "vision": "Breakthrough to Excellence",
     "register": "Register"
-  }
+  },
+  "keynote_en":{
+    "salutation":"Dear Toastmasters of District 76,",
+    "message":"I am grateful to be one of your speakers at District 76 Spring Conference in May 2015. I look forward to sharing with you the secrets of successful leaders that I have learned from serving in Toastmasters, politics and busi- ness. I hope you will join me at the conference. See you there!"
+  },
+  "keynote_jp":{
+    "message":"Handpicked by Mr. Anthony Robin, well known as the World Number One coach, Mr. Ikematsu made a presentation along with 4 other Japanese men including an eminent politician when  Mr. Robin came to Japan. He will talk about how we need to improve communication and leadership to be successful according to his experiences of having endured many hardships.",
+    "profile":""
+  },
+  "workshop":{
+    "detail":"DTM Deepak Menon will talk about leadership essentials right after Japanese Speech Contest on May 16.",
+    "title":"Title: Talk the Walk, Walk the Talk – Essentials of Leadership",
+    "summary":"Summary: In this interactive and practical workshop, He will aim to help the audience identify the essential attributes of a successful leader. The endeavor shall be to enable the audience use these attributes to identify such leaders　and imbibe the essentials to become successful leaders themselves."
+  }  
 }
