@@ -5,9 +5,8 @@
   "nav": {
     "home": "ホーム",
     "features": "特徴",
-    "program": "プログラム",
-    "access": "アクセス",
-    "registration": "お申込み"
+    "workshops": "ワークショップ",
+    "access": "アクセス"
   },
   "event": {
     "host": "District 76",
@@ -24,9 +23,40 @@
     "message":"世界No.1コーチと言われるアンソニー・ロビンズ氏来日の際に、著名な政治家と共に日本での優れたプレセンター５名の中に選ばれ講演を行う。ご自分の艱難辛苦な経験を通して、成功するにはいかにコミュニケーションとリーダーシップが必要かをお話くださいます。",
     "profile":"プロフィール：1961年鹿児島県出水市にて出生、高校卒業後渡米、２６歳で香港で起業し年商１億を手にするも仲間にだまされ巨額の借金を抱える。厳しい借金の取り立てに苦しむ中で出逢った成功哲学書のノウハウを実践。するとわずか2年で3億の借金を完済し翌年には年商26億を稼ぎ出すという軌跡の復活を遂げる。以降7,000万円もの自己投資を重ね世界中の成功哲学を学び、現在は青少年や大人を対象に夢を叶える習慣等について国内外問わず積極的に指導にあたっている。"
   },
-  "workshop":{
-    "detail":"5月16日の日本語コンテスト後にリーダーシップについて英語でお話くださいます。",
-    "title":"タイトル: Talk the Walk, Walk the Talk – Essentials of Leadership",
-    "summary":""
+  "special_workshop":{
+    "1_detail":"",
+    "1_title":"How Toastmasters Makes Your Dreams Come True",
+    "1_summary":"Discover how your dreams will become your reality when you are a Toastmaster! Learn how Toastmasters will build your confidence,which in turn will help you achieve your dreams, which in turn improves your life and serves the world.",
+    "1_room":"メインホール",
+    "1_speaker":"ゲェリー・シュミット",
+    "1_language":"英語",
+    "1_type":"有料",
+    "2_detail":"5月16日の日本語コンテスト後にリーダーシップについて英語でお話くださいます。",
+    "2_title":"Talk the Walk, Walk the Talk – Essentials of Leadership",
+    "2_summary":"",
+    "2_room":"メインホール",
+    "2_speaker":"ディーパック・メノン",
+    "2_language":"英語",
+    "2_type":"無料"
+  },
+  "workshop": {
+    "title":"タイトル",
+    "time":"日時",
+    "room":"部屋",
+    "speaker":"スピーカー",
+    "language":"言語",
+    "type":"タイプ",
+    "free_info":"日本語か英語のスピーチコンテストにお申込者のみ無料で参加可",
+    "en_info":"A部屋, 英語",
+    "jp_info":"B部屋, 日本語",
+    "1_title":"コーチング - 自分のブランディングを創る",
+    "1_en_speaker":"森田ライナー",
+    "1_jp_speaker":"村田志乃 さん",
+    "2_title":"論評 - クラブだけでなく社会生活でも応用できる方法",
+    "2_en_speaker":"エド・カウターズ",
+    "2_jp_speaker":"児島弘樹さん",
+    "3_title":"表現方法の上達法 - あらゆる場面で応用できる方法",
+    "3_en_speaker":"ウイリアム・ペセック",
+    "3_jp_speaker":"石渡誠さん"
   }
 }
