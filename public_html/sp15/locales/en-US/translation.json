@@ -5,9 +5,8 @@
   "nav": {
     "home": "Home",
     "features": "Features",
-    "program": "Program",
-    "access": "Access",
-    "registration": "Registration"
+    "workshops": "Workshops",
+    "access": "Access"
   },
   "event": {
     "host": "District 76",
@@ -24,9 +23,40 @@
     "message":"Handpicked by Mr. Anthony Robin, well known as the World Number One coach, Mr. Ikematsu made a presentation along with 4 other Japanese men including an eminent politician when  Mr. Robin came to Japan. He will talk about how we need to improve communication and leadership to be successful according to his experiences of having endured many hardships.",
     "profile":""
   },
-  "workshop":{
-    "detail":"DTM Deepak Menon will talk about leadership essentials right after Japanese Speech Contest on May 16.",
-    "title":"Title: Talk the Walk, Walk the Talk – Essentials of Leadership",
-    "summary":"Summary: In this interactive and practical workshop, He will aim to help the audience identify the essential attributes of a successful leader. The endeavor shall be to enable the audience use these attributes to identify such leaders　and imbibe the essentials to become successful leaders themselves."
+  "special_workshop":{
+    "1_detail":"",
+    "1_title":"How Toastmasters Makes Your Dreams Come True",
+    "1_summary":"Discover how your dreams will become your reality when you are a Toastmaster! Learn how Toastmasters will build your confidence,which in turn will help you achieve your dreams, which in turn improves your life and serves the world.",
+    "1_room":"Main Hall",
+    "1_speaker":"Gary Schmidt",
+    "1_language":"English",
+    "1_type":"Paid",
+    "2_detail":"DTM Deepak Menon will talk about leadership essentials right after Japanese Speech Contest on May 16.",
+    "2_title":"Talk the Walk, Walk the Talk – Essentials of Leadership",
+    "2_summary":"Summary: In this interactive and practical workshop, He will aim to help the audience identify the essential attributes of a successful leader. The endeavor shall be to enable the audience use these attributes to identify such leaders　and imbibe the essentials to become successful leaders themselves.",
+    "2_room":"Main Hall",
+    "2_speaker":"Deepak Menon",
+    "2_language":"English",
+    "2_type":"Free"
+  },
+  "workshop": {
+    "title":"Title",
+    "time":"Date & Time",
+    "room":"Room",
+    "speaker":"Speaker",
+    "language":"Language",
+    "type":"Type",
+    "free_info":"Those who registered for Japanese/English Contest can join for free.",
+    "en_info":"Room A, English",
+    "jp_info":"Room B, Japanese",
+    "1_title":"Coaching - How to create your self-branding?",
+    "1_en_speaker":"Rainer Morita",
+    "1_jp_speaker":"Shino Murata",
+    "2_title":"Evaluation - Applicable not only for TMC’s but in social scenes",
+    "2_en_speaker":"Ed Kuiters",
+    "2_jp_speaker":"Hiroki Kojima",
+    "3_title":"Expression - How to express yourself in social scenes?",
+    "3_en_speaker":"William Pesek",
+    "3_jp_speaker":"Makoto Ishiwata"
   }  
 }
