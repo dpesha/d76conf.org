@@ -20,8 +20,13 @@
     "message":"I am grateful to be one of your speakers at District 76 Spring Conference in May 2015. I look forward to sharing with you the secrets of successful leaders that I have learned from serving in Toastmasters, politics and busi- ness. I hope you will join me at the conference. See you there!"
   },
   "keynote_jp":{
-    "message":"Handpicked by Mr. Anthony Robin, well known as the World Number One coach, Mr. Ikematsu made a presentation along with 4 other Japanese men including an eminent politician when  Mr. Robin came to Japan. He will talk about how we need to improve communication and leadership to be successful according to his experiences of having endured many hardships.",
-    "profile":""
+    "message":"People not only in Japan but also other countries including Toastmasters take more interest in debate than before. He will talk about how we can improve and hone our communication and leadership skills through debate and make us a global leader.",
+    "profile":"Profile of Mr. Ayabe:",
+    "profile1":"*Associate Professor, Tokai University, Department of English",
+    "profile2":"*MA in Speech Communication, California State University, Northridge",
+    "profile3":"*Has taken important roles including Chief Judge, Special Advisor in various debate competitions",
+    "profile4":"*Has won in various debate competitions such as ESUJ, Daily Yomiuri Debate Competition and so forth",
+    "profile5":"*Ex-member of Kanto TMC and Machida Bilingual TMC"
   },
   "special_workshop":{
     "1_detail":"",
@@ -58,5 +63,79 @@
     "3_title":"Expression - How to express yourself in social scenes?",
     "3_en_speaker":"William Pesek",
     "3_jp_speaker":"Makoto Ishiwata"
-  }  
+  },
+  "speaker1": {
+    "profile":"Rainer Morita is a Bluesteps International Executive Career Coach. He has a multicultural perspective as a result of having successfully coached more than hundreds executives from five different continents in their career transitions. Rainer partners with top-tier executives and executive contenders worldwide to help them get an edge in this ever-changing international economy.", 
+    "profile1":"He has been leading job search seminars at the Tokyo Institute of Technology and RWTH Aachen University International Academy, Germany for an international audience.",
+    "profile2":"Rainer Morita was born in Germany.  He holds a Master in Technology Management from the Manchester School of Management, UK. He coaches clients in English, Japanese, German and Italian.",
+    "workshop_title":"Managing Impressions - From the Inside Out",
+    "workshop_overview":"People put a lot of effort into managing impressions. They try hard to influence the perception of their image - from the outside. Without much success. Managing impressions from the inside out shows a more effective approach that works instantaneously because you are true and your presentation rings true with the people around you.",
+    "workshop_overview1":"Seminar participants will gain insights into",
+    "workshop_overview2":"- How can I create my image from the insight out?",
+    "workshop_overview3":"- How can I make my life more effortless and enjoyable?",
+    "workshop_overview4":"- How can I combine inner and outer self to succeed at work and propel my career to the next level?",
+    "workshop_overview5":"Various examples and videos will illustrate the power of managing your image from the inside out."
+  },
+  "speaker2": {
+    "profile":"Ed Kuiters is a Dutch national who came to Japan in 2007. He is an economist and an IT entrepreneur (http://247servicesupport.com) who developed a passion for teaching and public speaking. ", 
+    "profile1":"He currently teaches public speaking, debating, and negotiation skills at Swingby Corporation (https://www.swingby.jp) and leads the Yokohama Business Society (http://www.meetup.com/YokohamaBusinessSociety).",
+    "profile2":"He is a member of Pioneer TMC, New Bridge TMC, and Champions TMC. His hobbies are playing tennis and running.",
+    "workshop_title":"",
+    "workshop_overview":"Evaluations can be very helpful to improve your public speaking skills. Unfortunately, most evaluators limit themselves to giving compliments. In this workshop we aim to turn your evaluation into a valuable gift to the speaker. You will learn",
+    "workshop_overview1":"",
+    "workshop_overview2":"1. how to prepare for a tailor-made evaluation,",
+    "workshop_overview3":"2. what to do during the speech,",
+    "workshop_overview4":"3. how to deliver you feedback.",
+    "workshop_overview5":""
+  },
+  "speaker3": {
+    "profile":"William Pesek is an Asia-Pacific columnist for Bloomberg View and author of 'Japanization' (Wiley, 2014). Based in Tokyo, he provides opinions and commentary on economics, politics, business, markets and social phenomena throughout the region.He is winner most recently of the Society of American Business Editors and Writers (SABEW)'s 2010 award for commentary.", 
+    "profile1":"Pesek's columns routinely appear in the International Herald Tribune, Sydney Morning Herald, New York, Post, The Straits Times, The Japan Times and many other publications around the globe. He writes a monthly column for Bloomberg Markets magazine and is a regular on Bloomberg Television.",
+    "profile2":"His work can be found at:http://www.bloombergview.com/contributors/william-pesek He can be followed on Twitter at @williampesek",
+    "workshop_title":"",
+    "workshop_overview":"",
+    "workshop_overview1":"",
+    "workshop_overview2":"",
+    "workshop_overview3":"",
+    "workshop_overview4":"",
+    "workshop_overview5":""
+  },
+  "speaker4": {
+    "profile":"She currently works as Personal Image Consultant to help her clients alter, change or restore their image.  Not only their looks, she also helps them with their communication skills.  Her overall goal is to make you and your organization appealing to the public.  She has more than ten years of experience teaching hotel staff of leading hotels.", 
+    "profile1":"",
+    "profile2":"",
+    "workshop_title":"Image Matters – Get the Audience on Your Side",
+    "workshop_overview":"A radiant smile is sure to capture the hearts of the audience.  When you make a speech, the message will not be passed along only by polished words and phrases.  Your facial expressions, body gestures and posture speak louder than words.  More importantly, non-verbal message will be sent to your audience as soon as they lay on their eyes on you.",
+    "workshop_overview1":"The workshop includes:",
+    "workshop_overview2":"- Understanding the truth in communication",
+    "workshop_overview3":"- Having face stretching exercises",
+    "workshop_overview4":"- Understanding how facial expressions affect to your mind",
+    "workshop_overview5":""
+  },
+  "speaker5": {
+    "profile":"・He has been a Toastmaster since 2008 and has held the position of Club President and Area Governor.", 
+    "profile1":"・He won the 2nd place at Japanese Evaluation Contest on the District 76 Fall Conference 2011.",
+    "profile2":"・He set a record of winning Best Evaluator Award for a year and half at Iidabashi TMC.",
+    "profile3":"・He is the Founder and President of 'Storytelling TMC', an advanced club, for the first time in Japan, which is specialized in 'Storytelling'.",
+    "profile4":"・He is currently an active member of Storytelling, Iidabashi, and Cosmos TMC’s.",
+    "workshop_title":"Evaluation – Applicable Not Only for TMC’s But in Social Scenes",
+    "workshop_overview":"Evaluating is the skill of giving feedback. It is applicable not only for Toastmasters clubs. The world is in great need of people who can give feedback accurately.  The workshop will provide the participants with the tips how to give feedback including social viewpoint.",
+    "workshop_overview1":"",
+    "workshop_overview2":"",
+    "workshop_overview3":"",
+    "workshop_overview4":"",
+    "workshop_overview5":""
+  },
+  "speaker6": {
+    "profile":"Makoto Ishiwata learned English in Japan following the method advocated by the late Dr. Toru Matsumoto and has been teaching English to adult learners for 34 years. He has his own company, Language Teaching Revolutions Inc. and served as President of Kaplan Japan (2004-2012) before starting his own English school, FORWARD, at Omotesando in 2013. His unique method of teaching English has been introduced by both domestic and foreign media such as The Wall Street Journal, ABC News, and BBC News. He was a keynote speaker at Toastmasters District 76 Fall conference and is currently serving as President at Tokyo American Club Toastmasters and SAA at Aoyama Lunch Toastmasters Club. ", 
+    "profile1":"",
+    "profile2":"",
+    "workshop_title":"Power Up Your Speech With Vocal and Facial Variety",
+    "workshop_overview":"Every Toastmaster knows that facial expression and vocal variety are so powerful that they can totally change the impression their speech leaves with the audience. Yet, most people have their own speech habits that prevent them from using more effective vocal and facial variety. This workshop is designed to help the participants get out of their comfort zone and practice things like eye contact, pauses, and voice modulation in a fun way.",
+    "workshop_overview1":"",
+    "workshop_overview2":"",
+    "workshop_overview3":"",
+    "workshop_overview4":"",
+    "workshop_overview5":""
+  }
 }
