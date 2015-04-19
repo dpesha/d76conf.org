@@ -5,7 +5,9 @@
   "nav": {
     "home": "Home",
     "features": "Features",
+    "program":"Program",
     "workshops": "Workshops",
+    "inquiry":"Inquiry",
     "access": "Access"
   },
   "event": {
@@ -92,12 +94,12 @@
     "profile":"William Pesek is an Asia-Pacific columnist for Bloomberg View and author of 'Japanization' (Wiley, 2014). Based in Tokyo, he provides opinions and commentary on economics, politics, business, markets and social phenomena throughout the region.He is winner most recently of the Society of American Business Editors and Writers (SABEW)'s 2010 award for commentary.", 
     "profile1":"Pesek's columns routinely appear in the International Herald Tribune, Sydney Morning Herald, New York, Post, The Straits Times, The Japan Times and many other publications around the globe. He writes a monthly column for Bloomberg Markets magazine and is a regular on Bloomberg Television.",
     "profile2":"His work can be found at:http://www.bloombergview.com/contributors/william-pesek He can be followed on Twitter at @williampesek",
-    "workshop_title":"",
+    "workshop_title":"Things I've Learned Along the Way",
     "workshop_overview":"",
-    "workshop_overview1":"",
-    "workshop_overview2":"",
-    "workshop_overview3":"",
-    "workshop_overview4":"",
+    "workshop_overview1":"-How to talk to heads of state",
+    "workshop_overview2":"-How to make the ordinary extraordinary",
+    "workshop_overview3":"-How to translate complex subjects to the masses",
+    "workshop_overview4":"-How to follow a big story to its logical conclusion",
     "workshop_overview5":""
   },
   "speaker4": {
@@ -137,5 +139,47 @@
     "workshop_overview3":"",
     "workshop_overview4":"",
     "workshop_overview5":""
+  },
+  "program": {
+    "day1_item1":"Optional Tour (subject to change due to the number of participaing members.)",
+    "day1_item2":"Registration Desk Opens",
+    "day1_item3":"Special Workshop by Gary Schmidt",
+    "day1_item4":"Mingle time with Gary Schmidt",
+    "day2_item1":"Registration Desk Opens",
+    "day2_item2":"6 Workshops @Central Building",
+    "day2_item3":"Lunch Box at Lobby",
+    "day2_item4":"Banner March Desk Opens",
+    "day2_item5":"Banner March",
+    "day2_item6":"Opening Ceremony",
+    "day2_item7":"Musical Performance",
+    "day2_item8":"Japanese Keynote Speech by Isao Ayabe",
+    "day2_item9":"Intermission",
+    "day2_item10":"Japanese Speech Contest",
+    "day2_item11":"Intermission",
+    "day2_item12":"Workshop by Deepak Menon",
+    "day2_item13":"Closing",
+    "day2_item14":"Welcome Party Reception @ International Exchange Building Hall",
+    "day2_item15":"Welcome Party",
+    "day3_item1":"Registration Desk Opens",
+    "day3_item2":"Opening Ceremony",
+    "day3_item3":"English Keynote",
+    "day3_item4":"Intermission",
+    "day3_item5":"International Speech Contest",
+    "day3_item6":"Grand FInale",
+    "day3_item7":"Lunch Box at Lobby",
+    "day3_item8":"Credential Desk Opens",
+    "day3_item9":"District Council Meeting",
+    "day3_item10":"The End",
+    "day1":"DAY 1",
+    "day2":"DAY 2",
+    "day3":"DAY 3",
+    "day1_day":"May 15, Friday",
+    "day2_day":"May 16, Saturday",
+    "day3_day":"May 17, Sunday",
+    "day1_venue":"International Exchange Building Reception Hall",
+    "day2_venue":"Arts Building Large Hall",
+    "day3_venue":"Arts Building Large Hall"
   }
 }
+
+
